@@ -19,7 +19,8 @@ public class Main {
     }
     public static class Scannerz {
         public static void main(String[] args) {
-            System.out.println("Just input smth for 1test:");
+            System.out.println("Just input smth for 1test :");
+            // change from your brother
             Scanner input = new Scanner(System.in);
             String buffer = input.nextLine();
             System.out.println(buffer);
